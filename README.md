@@ -39,8 +39,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 🙌 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um **issue** ou enviar um **pull request**.
-
----
-
-Se precisar de mais personalizações, é só avisar! 😊
- 
